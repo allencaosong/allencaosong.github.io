@@ -20,7 +20,10 @@ jobs:
         with:
           hugo-version: '0.88.1'
           extended: true
-
+          
+      - name: Install libsass
+        run: sudo apt-get update && sudo apt-get install -y libsass-dev
+        
       - name: Build
         run: hugo --minify
 
