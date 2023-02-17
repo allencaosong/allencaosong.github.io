@@ -60,8 +60,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.cn]
-title = "Study docs"
-description = "A study docs site"
+title = "学习手册"
+description = "一个学习手册的网站"
 languageName ="Chinese"
 # Weight used for sorting.
 weight = 1
