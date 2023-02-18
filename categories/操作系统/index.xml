@@ -1,0 +1,9 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>学习手册 – 操作系统</title><link>/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link><description>Recent content in 操作系统 on 学习手册</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 操作系统</title><link>/docs/operating-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/operating-system/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>操作系统（operation system，简称OS）是管理计算机硬件与软件资源的计算机程序。 操作系统需要处理如管理与配置内存、决定系统资源供需的优先次序、控制输入设备与输出设备、操作网络与管理文件系统等基本事务。&lt;/p>
+&lt;/div>
+&lt;p>作为一个合格的程序员，操作系统是必须需要学的内功，只有内功扎实，才能在程序员的道路上进一步的发展。&lt;/p>
+&lt;p>本文将以目录安排学习&lt;/p></description></item><item><title>Docs: 环境配置</title><link>/docs/operating-system/install-env/</link><pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate><guid>/docs/operating-system/install-env/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>使用虚拟机安装环境目的是为了统一环境配置，这样出错的概率小。&lt;/p>
+&lt;/div></description></item></channel></rss>

@@ -1,0 +1,4 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>学习手册 – 操作系统</title><link>/docs/operating-system/</link><description>Recent content in 操作系统 on 学习手册</description><generator>Hugo -- gohugo.io</generator><atom:link href="/docs/operating-system/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 环境配置</title><link>/docs/operating-system/install-env/</link><pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate><guid>/docs/operating-system/install-env/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>使用虚拟机安装环境目的是为了统一环境配置，这样出错的概率小。&lt;/p>
+&lt;/div></description></item></channel></rss>
